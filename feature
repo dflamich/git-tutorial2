@@ -2,4 +2,5 @@ commit 1
 commit 2
 commit 3
 conflict 1
-feature2
+feature 1
+
